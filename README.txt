@@ -1,1 +1,2 @@
-here im going to explain everything and how to use it
+need to finish
+# TODO make the program to input the desider recepient name inside the desired messege from winR bar for exmp the command will be "mclip Slavko busy" and the output will be "Dear slavko im busy"
